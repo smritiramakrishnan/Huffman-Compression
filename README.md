@@ -6,4 +6,4 @@
 <h2> Environment and Apps used </h2>
 • IntelliJ
 <br>• VSCode</br>
-<br>• Windows 11</br>
+• Windows 11
