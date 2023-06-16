@@ -5,5 +5,5 @@
 • Java
 <h2> Environment and Apps used </h2>
 • IntelliJ
-• VSCode
-• Windows 11
+<br>• VSCode</br>
+<br>• Windows 11</br>
